@@ -20,7 +20,4 @@
 <br>
 <h3>Video Showcase:</h3>
 <br>
-<video controls>
-        <source src="https://github.com/hayaabduljabbar/Ecommerce-Flower-Shop/blob/master/assets/Project%20Intro%20Tutorial.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xebH9ceae0g?si=nkOOUgsjP-xnfM-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
