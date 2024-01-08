@@ -20,4 +20,5 @@
 <br>
 <h3>Video Showcase:</h3>
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xebH9ceae0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p>Watch a demo of our E-commerce Flower Shop on YouTube:</p>
+<a href="https://www.youtube.com/watch?v=xebH9ceae0g" target="_blank"><img src="https://github.com/hayaabduljabbar/Ecommerce-Flower-Shop/blob/master/assets/video%20thumbnail.png" alt="Video Thumbnail"></a>
