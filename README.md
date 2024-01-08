@@ -9,7 +9,6 @@
 <li>Bootstrap</li>
 <li>jQuery</li>
 </ul>
-<br>
 <h3>Features:</h3>
 <ul>
 <li>Owl Carousel</li>
@@ -22,6 +21,6 @@
 <h3>Video Showcase:</h3>
 <br>
 <video controls>
-        <source src="assets/Project Intro Tutorial.mp4" type="video/mp4">
+        <source src="https://github.com/hayaabduljabbar/Ecommerce-Flower-Shop/blob/master/assets/Project%20Intro%20Tutorial.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
